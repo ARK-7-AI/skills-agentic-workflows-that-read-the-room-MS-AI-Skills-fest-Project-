@@ -7,6 +7,8 @@ on:
 network:
   allowed:
     - github
+    - github.blog
+    - github.com
 tools:
   web-fetch: null
   edit: null
