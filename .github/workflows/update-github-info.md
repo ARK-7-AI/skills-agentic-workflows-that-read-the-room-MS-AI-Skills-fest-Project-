@@ -9,6 +9,7 @@ network:
     - github
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 tools:
   web-fetch: null
   edit: null
@@ -33,6 +34,9 @@ Start by reading the editorial guidelines in `notes/mona-notes.md` to understand
 Web fetch the following sources to gather the latest GitHub news and announcements:
 - https://github.blog/latest/ (for latest blog articles)
 - https://github.blog/changelog/ (for GitHub changelog entries)
+- https://awesome-copilot.github.com/workflows/ (for curated Awesome Copilot workflows)
+
+Also instruct the agent to explicitly web fetch the Awesome Copilot workflows index at `https://awesome-copilot.github.com/workflows/` so curated external workflow examples can be considered as sources.
 
 ### Analyze and Summarize
 
