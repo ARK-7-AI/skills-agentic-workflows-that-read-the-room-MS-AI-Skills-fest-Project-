@@ -14,7 +14,9 @@ tools:
   web-fetch: null
   edit: null
 safe-outputs:
-  create-pull-request: null
+  create-pull-request:
+    title-prefix: "[mona] "
+    draft: true
 ---
 
 # Update GitHub Info
