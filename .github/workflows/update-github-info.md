@@ -17,6 +17,9 @@ safe-outputs:
   create-pull-request:
     title-prefix: "[mona] "
     draft: true
+assign-to-agent:
+  models:
+      - gpt-5-mini
 ---
 
 # Update GitHub Info
