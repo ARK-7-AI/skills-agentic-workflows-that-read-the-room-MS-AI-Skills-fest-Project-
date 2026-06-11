@@ -1,6 +1,5 @@
 ---
 engine: copilot
-model: gpt-5-mini
 on:
   schedule:
     - cron: 'daily'
