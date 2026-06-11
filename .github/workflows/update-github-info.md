@@ -18,7 +18,7 @@ safe-outputs:
     title-prefix: "[mona] "
     draft: true
   assign-to-agent:
-    model: gpt-5-mini
+    model: agent
 ---
 
 # Update GitHub Info
