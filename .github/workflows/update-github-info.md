@@ -17,8 +17,6 @@ safe-outputs:
   create-pull-request:
     title-prefix: "[mona] "
     draft: true
-  assign-to-agent:
-    model: agent
 ---
 
 # Update GitHub Info
