@@ -14,6 +14,8 @@ tools:
   web-fetch: null
   edit: null
 safe-outputs:
+  assign-to-agent:
+    model: gpt-4o
   create-pull-request:
     title-prefix: "[mona] "
     draft: true
