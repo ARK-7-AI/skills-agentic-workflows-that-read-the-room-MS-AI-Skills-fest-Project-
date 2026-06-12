@@ -15,7 +15,7 @@ tools:
   edit: null
 safe-outputs:
   assign-to-agent:
-    model: gpt-5-mini
+    model: gpt-4o-mini
   create-pull-request:
     title-prefix: "[mona] "
     draft: true
